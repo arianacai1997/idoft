@@ -434,7 +434,7 @@ https://github.com/apache/cxf,69925893ed0e8a8fdfe1164b4e097a5cf5524027,core,org.
 https://github.com/apache/cxf,69925893ed0e8a8fdfe1164b4e097a5cf5524027,core,org.apache.cxf.feature.transform.XSLTInterceptorsTest.outWriterStreamTest,OD-Brit,,,
 https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,helpers,org.apache.cxf.helpers.FileUtilsTest.testGetFiles,ID,,,
 https://github.com/apache/cxf,69925893ed0e8a8fdfe1164b4e097a5cf5524027,core,org.apache.cxf.io.CacheAndWriteOutputStreamTest.testDeleteTmpFile,OD-Brit,,,
-https://github.com/apache/cxf,69925893ed0e8a8fdfe1164b4e097a5cf5524027,core,org.apache.cxf.io.CachedOutputStreamTest.testDeleteTmpFile,OD-Vic,,,
+https://github.com/apache/cxf,69925893ed0e8a8fdfe1164b4e097a5cf5524027,core,org.apache.cxf.io.CachedOutputStreamTest.testDeleteTmpFile,OD-Brit,,,
 https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,axrs/client/spec,org.apache.cxf.jaxrs.client.spec.ClientResponseFilterTest.testExceptionInClientResponseFilterWhenNotFound,ID,,,
 https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,jaxrs/ext/search,org.apache.cxf.jaxrs.ext.search.BeanspectorTest.testMismatchedOverriddenBeans,ID,,,
 https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,jaxrs/utils,org.apache.cxf.jaxrs.utils.JAXBUtilsTest.extendedXmlJavaTypeAdapter,ID,,,
